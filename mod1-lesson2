@@ -1,0 +1,7 @@
+score=int(input("whats your score"))
+if(score>90):
+    print("excellent")
+elif(score<70>90):
+    print("good")
+else:
+    print("needs improvement")        
